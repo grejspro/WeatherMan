@@ -14,7 +14,7 @@ Things you may need to setup project:
 1.  Get the code. Clone this git repository and check out the latest release:
 
     ```bash
-    git clone https://github.com/
+    git clone https://github.com/grejspro/WeatherMan.git
     cd WeatherMan
     ```
 
@@ -24,7 +24,7 @@ Things you may need to setup project:
     bundle install
     ```
 
-4.  You need to generate your api key for this `https://api.openweathermap.org/data/2.5/weather` and then place it in credentails.yml file like:
+4.  You need to generate your api key for this `https://api.openweathermap.org/data/2.5/weather`. If you don't have any API key, you can use this: `c1c504d171764e83fc4aa75449065ec9`. Then place the API key in the credentials.yml file like: and then place it in credentails.yml file like:
 
     `openweather_api_key: your_api_key`
 
